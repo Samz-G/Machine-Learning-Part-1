@@ -1,9 +1,9 @@
-## Machine Learning Training Concepts
-# Overview
+# Machine Learning Training Concepts
+## Overview
 
 This project is a Jupyter Notebook that introduces and demonstrates core machine learning concepts using Python. It is designed as a learning resource to understand how different machine learning workflows operate, from data preprocessing to model training and evaluation.
 
-# What’s Inside
+## What’s Inside
 
 Explanation of basic machine learning concepts.
 
@@ -13,7 +13,7 @@ Demonstrations of data preprocessing techniques.
 
 Introduction to different algorithms and their applications.
 
-# Tools & Libraries
+## Tools & Libraries
 
 Python
 
@@ -25,7 +25,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-# How to Use
+## How to Use
 
 Clone this repository.
 
@@ -33,10 +33,10 @@ Open the notebook file (Machine_Learning_Part_A.ipynb).
 
 Run the cells step by step to follow along with the explanations and training examples.
 
-# Purpose
+## Purpose
 
 The notebook aims to provide clarity on the fundamentals of machine learning in a practical and hands-on way. It is useful for beginners who want to learn how models are built, trained, and evaluated.
 
-# Author
+## Author
 
 Developed by Samz-G – passionate about breaking down complex data concepts and making them easier to understand.
